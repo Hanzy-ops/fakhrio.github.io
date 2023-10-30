@@ -1,0 +1,32 @@
+body {
+    background: #F2F2F2;
+}
+
+.navbar-brand {
+    font-family: monospace;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background: #141414;
+}
+
+.display-4  {
+    color: #F2F2F2;
+}
+
+.lead {
+    color: #FF3A08;
+}
+
+#project {
+    background: #FF3A08;
+}
+
+#contact {
+    background: #141414;
+}
+
+#contact .countainer h2 {
+    color: #F2F2F2;
+}
